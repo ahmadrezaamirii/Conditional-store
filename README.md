@@ -9,6 +9,7 @@ If the purchase amount is between $500 and $1000, a 10% discount is applied.
 If the purchase amount is less than $500, no discount is applied.
 
 Write a program that receives the purchase amount from the user and displays the final amount.
+
 input:
 ````
 purchase_amount = float(input("Enter price: "))
